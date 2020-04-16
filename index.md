@@ -224,7 +224,7 @@ sudo systemctl restart nagios
 ![Image](nagiosp4.png)
 > History
 
-* Nagios tutorial complete.
+* Nagios tutorial complete. [return](#int333)
 
 
 ### Ansible:
@@ -293,4 +293,6 @@ nano authorized_keys
 
 ![Image](save.png)
 
-> Ansible tutorial complete.
+> Ansible tutorial complete. [return](#int333)
+
+> Project available at https://github.com/KR-Ravindra/DevOpsProject.git
